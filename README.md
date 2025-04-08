@@ -3,6 +3,8 @@
 Bienvenue sur mon **Blog sur Django** !  
 Ici, je partage des réflexions et des actualités sur les technologies numériques, avec un accent particulier sur l'intelligence artificielle, le machine learning et le cloud computing.
 
+Ce projet est une application web développée avec [Django](https://www.djangoproject.com/).  Découvrez l'application en direct [ici](https://achrafisthebest.pythonanywhere.com/).
+
 ## Articles
 
 ### L’Intelligence Artificielle, un outil au service de l’humain
